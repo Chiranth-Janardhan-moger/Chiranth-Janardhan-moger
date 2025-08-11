@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg)
 
 ###
