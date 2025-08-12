@@ -1,40 +1,66 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile;I+am+Chiranth)
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A12C&size=25&center=false&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I'm+Chiranth;Full+Stack+Web+Developer;Always+learning+new+things+🚀)
 
+<h2 align="left">Hi 👋! My name is Chiranth</h2>
 
+---
 
+## 🌟 About Me
+- 💻 Passionate **Full Stack Developer**
+- 🚀 Love building **modern, scalable web applications**
+- 📚 Always exploring **new tools and frameworks**
+- 🎯 Goal: Build **impactful projects** that solve real-world problems
 
-<h2 align="left">Hi 👋! My name is Chiranth and I'm a Software Developer, from Banglore</h2>
+---
 
-###
+## 🛠 Tech Stack
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  
+**Frontend**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-###
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Chiranth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=radical)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:Chiranthmoger7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+
 
 ![snake gif](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg)
 
-###
+
+
+
