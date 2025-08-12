@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile;I+am+Chiranth)
 
 <h2 align="left">Hi 👋! My name is Chiranth and I'm a Software Developer, from Banglore</h2>
 
