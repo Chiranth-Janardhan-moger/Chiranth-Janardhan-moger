@@ -38,6 +38,82 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
+
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/Connect_Me">📱 ConnectMe</a></h3>
+      <p>Real-time campus transit tracking, encrypted socket communication, and automated SOS alert platform.</p>
+      <p>
+        <code>React Native</code> &nbsp;
+        <code>Socket.io</code> &nbsp;
+        <code>Node.js</code> &nbsp;
+        <code>MongoDB</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/The-Silent-Cry-Decoder">🍼 The Silent Cry Decoder</a></h3>
+      <p>AI system classifying infant cry reasons from audio patterns using CNN, BiLSTM, and Whisper fusion.</p>
+      <p>
+        <code>PyTorch</code> &nbsp;
+        <code>FastAPI</code> &nbsp;
+        <code>Whisper</code> &nbsp;
+        <code>Python</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/MCPPRO">🤖 MCPPro Intelligence System</a></h3>
+      <p>Production-grade AI agent and Document RAG orchestration platform with FastAPI and Next.js.</p>
+      <p>
+        <code>Next.js</code> &nbsp;
+        <code>FastAPI</code> &nbsp;
+        <code>VectorDB</code> &nbsp;
+        <code>Docker</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/CloudPulse">☁️ CloudPulse</a></h3>
+      <p>Real-time AWS cloud infrastructure monitoring, idle EC2 cost optimization, and waste tracking.</p>
+      <p>
+        <code>AWS CloudWatch</code> &nbsp;
+        <code>Docker</code> &nbsp;
+        <code>CI/CD</code> &nbsp;
+        <code>DevOps</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/Client-2_DSK_MART">🛵 DSK Delivery & Mart System</a></h3>
+      <p>Commercial full-stack dispatch and delivery management board featuring driver-role access controls.</p>
+      <p>
+        <code>React</code> &nbsp;
+        <code>Node.js</code> &nbsp;
+        <code>Express</code> &nbsp;
+        <code>MongoDB</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Chiranth-Janardhan-moger/fitphile">💪 Fitphile Exercise Tracker</a></h3>
+      <p>AI physical fitness companion tracking and counting repetitions with OpenCV and MediaPipe Pose.</p>
+      <p>
+        <code>MediaPipe</code> &nbsp;
+        <code>OpenCV</code> &nbsp;
+        <code>Flask</code> &nbsp;
+        <code>Python</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
