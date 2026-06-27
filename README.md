@@ -1,6 +1,10 @@
 # Welcome to My Digital Universe!
 
 <div align="center">
+  
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 70" width="300" height="72"><text x="10" y="42" fill="currentColor" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="bold">Hi, I am Chiranth</text><path d="M135,51 Q200,55 265,51" fill="none" stroke="#FFD700" stroke-width="3.5" stroke-linecap="round" /></svg>
+
+
 
 <!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chiranth%20Janardhan%20Moger&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
@@ -148,15 +152,7 @@ console.log("Welcome to my GitHub profile!");
 
 </div>
 
----
 
-## GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chiranth-Janardhan-moger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
