@@ -1,95 +1,76 @@
-# Chiranth Janardhan Moger
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#bc8cff" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Subtle grid grid lines -->
+  <line x1="0" y1="100" x2="800" y2="100" stroke="#21262d" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="200" stroke="#21262d" stroke-width="1"/>
+  <line x1="550" y1="0" x2="550" y2="200" stroke="#21262d" stroke-width="1"/>
+  
+  <!-- Header Text -->
+  <text x="40" y="65" fill="url(#gradient)" font-size="28" font-weight="800" letter-spacing="1">CHIRANTH JANARDHAN MOGER</text>
+  <text x="40" y="95" fill="#8b949e" font-size="14" font-weight="500" letter-spacing="3">FULL STACK DEVELOPER</text>
+  
+  <!-- Capabilities Column -->
+  <text x="40" y="140" fill="#c9d1d9" font-size="12" font-weight="600">CAPABILITIES</text>
+  <text x="40" y="165" fill="#8b949e" font-size="12">Web &amp; Mobile Architectures</text>
+  
+  <!-- Focus Column -->
+  <text x="330" y="40" fill="#c9d1d9" font-size="12" font-weight="600">CURRENT FOCUS</text>
+  <text x="330" y="65" fill="#8b949e" font-size="12">Offline-first applications</text>
+  <text x="330" y="85" fill="#8b949e" font-size="12">Mobile UX design</text>
+  
+  <!-- Motto Column -->
+  <text x="330" y="140" fill="#c9d1d9" font-size="12" font-weight="600">DESIGN PHILOSOPHY</text>
+  <text x="330" y="165" fill="#8b949e" font-size="12">Security by default</text>
+  
+  <!-- Status Column -->
+  <text x="580" y="40" fill="#c9d1d9" font-size="12" font-weight="600">PROJECTS</text>
+  <text x="580" y="65" fill="#58a6ff" font-size="12" font-weight="500">VaultX Manager</text>
+  <text x="580" y="85" fill="#8b949e" font-size="12">Vedic Vibes</text>
+</svg>
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&lines=Full+Stack+Web+Developer;Building+scalable+solutions;Open-source+enthusiast" alt="Typing SVG" />
-  </a>
+### Overview
+
+Full Stack Developer specializing in clean, secure, and user-centric architectures. Experienced in building native mobile apps and cross-platform web platforms with robust local encryption and zero cloud dependency.
+
+---
+
+### Capabilities
+
+* **Frontend Engineering** — React, React Native, TypeScript, TailwindCSS, Bootstrap, Expo
+* **Backend Systems** — Node.js, Express, Java, Python, RESTful APIs
+* **Databases & Security** — MongoDB, MySQL, PostgreSQL, AES-256 local-only encryption
+
+---
+
+### Selected Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
 </p>
 
 ---
 
-```bash
-chiranth@workspace:~$ whoami
-role:         Full Stack Developer
-focus:        Building secure, offline-first architectures (like VaultX)
-passions:     Web Development | Mobile Development | Cryptography
-fun_fact:     I debug with console.log and I am proud of it!
+### Connect
 
-chiranth@workspace:~$ cat stack.json
-{
-  "frontend":  ["React", "React Native", "TailwindCSS"],
-  "backend":   ["Node.js", "Express", "Java", "Python"],
-  "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-  "tooling":   ["Git", "GitHub Actions", "VS Code", "Postman"]
-}
-
-chiranth@workspace:~$ get-insights --user=Chiranth-Janardhan-moger
-[STATUS] Fetching analytics...
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranth-Janardhan-moger&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiranth-Janardhan-moger&theme=tokyo-night&hide_border=true&area=true" width="90%">
-</p>
+[Email](mailto:Chiranthmoger7@gmail.com) / [LinkedIn](https://www.linkedin.com/in/chiranthmoger-01a867316) / [GitHub](https://github.com/Chiranth-Janardhan-moger)
 
 ---
 
-```bash
-chiranth@workspace:~$ fetch-workflow --visualize
-```
-
-```mermaid
-graph LR
-    A[Current Focus] --> B[Full Stack Apps]
-    A --> C[Databases]
-    B --> D[React & React Native]
-    B --> E[Node.js & Express]
-    C --> F[MongoDB & SQL]
-    
-    style A fill:#00d9ff,stroke:#333,stroke-width:2px
-    style B fill:#3a86ff,stroke:#333,stroke-width:1px
-    style C fill:#3a86ff,stroke:#333,stroke-width:1px
-```
-
----
-
-```bash
-chiranth@workspace:~$ contact-details --format=shields
-```
-
-<p align="left">
-  <a href="mailto:Chiranthmoger7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chiranthmoger-01a867316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Chiranth-Janardhan-moger">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-```bash
-chiranth@workspace:~$ run-snake-animation
-[INFO] Generating contribution snake...
-```
+### Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg" alt="Snake animation" width="90%" />
+  <img src="https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg" alt="Snake animation" width="85%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
