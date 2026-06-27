@@ -26,7 +26,7 @@
 const chiranth = {
     role: "Full Stack Developer",
     passion: ["Web Development", "Problem Solving", "Innovation"],
-    currentFocus: "Building scalable web applications",
+    currentFocus: "AI agents and architectures",
     lifeGoal: "Create impactful solutions for real-world problems",
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
@@ -172,18 +172,18 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ```mermaid
 graph TD
-    A[🚀 Current Focus] --> B[Full Stack Applications]
-    A --> C[Modern JavaScript Frameworks]
-    A --> D[Database Optimization]
+    A[🚀 Current Focus] --> B[AI Agents]
+    A --> C[Architectures]
+    A --> D[Full Stack Systems]
     
-    B --> E[React.js Projects]
-    B --> F[Node.js APIs]
+    B --> E[Multi-agent Orchestration]
+    B --> F[LLM Integration]
     
-    C --> G[Next.js]
-    C --> H[TypeScript]
+    C --> G[Scalable System Design]
+    C --> H[Design Patterns]
     
-    D --> I[MongoDB Performance]
-    D --> J[SQL Query Optimization]
+    D --> I[React Native & Expo]
+    D --> J[Node.js APIs]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
