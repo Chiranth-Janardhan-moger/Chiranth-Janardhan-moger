@@ -8,31 +8,24 @@
 
 ---
 
-### About Me
+```bash
+chiranth@workspace:~$ whoami
+role:         Full Stack Developer
+focus:        Building secure, offline-first architectures (like VaultX)
+passions:     Web Development | Mobile Development | Cryptography
+fun_fact:     I debug with console.log and I am proud of it!
 
-```javascript
-const chiranth = {
-    role: "Full Stack Developer",
-    passion: ["Web Development", "Problem Solving", "Innovation"],
-    currentFocus: "Building scalable web & mobile applications",
-    lifeGoal: "Create impactful solutions for real-world problems",
-    funFact: "I debug with console.log and I'm proud of it!"
-};
+chiranth@workspace:~$ cat stack.json
+{
+  "frontend":  ["React", "React Native", "TailwindCSS"],
+  "backend":   ["Node.js", "Express", "Java", "Python"],
+  "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+  "tooling":   ["Git", "GitHub Actions", "VS Code", "Postman"]
+}
+
+chiranth@workspace:~$ get-insights --user=Chiranth-Janardhan-moger
+[STATUS] Fetching analytics...
 ```
-
----
-
-### Tech Arsenal
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,java,python,mongodb,mysql,postgres,git,github,vscode,postman&perline=8" alt="My Skills" />
-  </a>
-</p>
-
----
-
-### GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
@@ -49,7 +42,9 @@ const chiranth = {
 
 ---
 
-### Current Focus
+```bash
+chiranth@workspace:~$ fetch-workflow --visualize
+```
 
 ```mermaid
 graph LR
@@ -66,7 +61,9 @@ graph LR
 
 ---
 
-### Let's Connect
+```bash
+chiranth@workspace:~$ contact-details --format=shields
+```
 
 <p align="left">
   <a href="mailto:Chiranthmoger7@gmail.com">
@@ -82,7 +79,10 @@ graph LR
 
 ---
 
-### Contribution Journey
+```bash
+chiranth@workspace:~$ run-snake-animation
+[INFO] Generating contribution snake...
+```
 
 <p align="center">
   <img src="https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg" alt="Snake animation" width="90%" />
