@@ -2,16 +2,7 @@
 
 <div align="center">
   
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 70" width="300" height="72">
-  <style>
-    .text { fill: #000000; }
-    @media (prefers-color-scheme: dark) {
-      .text { fill: #ffffff; }
-    }
-  </style>
-  <text x="10" y="42" class="text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="bold">Hi, I am Chiranth</text>
-  <path d="M135,51 Q200,55 265,51" fill="none" stroke="#FFD700" stroke-width="3.5" stroke-linecap="round" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 70" width="300" height="72"><text x="10" y="42" fill="currentColor" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="bold">Hi, I am Chiranth</text><path d="M135,51 Q200,55 265,51" fill="none" stroke="#FFD700" stroke-width="3.5" stroke-linecap="round" /></svg>
 
 
 
