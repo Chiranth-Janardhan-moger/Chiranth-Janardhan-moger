@@ -1,332 +1,95 @@
-# Welcome to My Digital Universe!
+# Chiranth Janardhan Moger
 
-<div align="center">
-  
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Chiranth+%F0%9F%91%8B;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
-
-
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chiranth%20Janardhan%20Moger&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-</div>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&lines=Full+Stack+Web+Developer;Building+scalable+solutions;Open-source+enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🎯 About Me
-
-<div align="center">
-  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
+### About Me
 
 ```javascript
 const chiranth = {
     role: "Full Stack Developer",
     passion: ["Web Development", "Problem Solving", "Innovation"],
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Building scalable web & mobile applications",
     lifeGoal: "Create impactful solutions for real-world problems",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    funFact: "I debug with console.log and I'm proud of it!"
 };
-
-console.log("Welcome to my GitHub profile! 🚀");
 ```
 
-<br clear="right"/>
-
 ---
 
+### Tech Arsenal
 
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/Connect_Me">📱 ConnectMe</a></h3>
-      <p>Real-time campus transit tracking, encrypted socket communication, and automated SOS alert platform.</p>
-      <p>
-        <code>React Native</code> &nbsp;
-        <code>Socket.io</code> &nbsp;
-        <code>Node.js</code> &nbsp;
-        <code>MongoDB</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/The-Silent-Cry-Decoder">🍼 The Silent Cry Decoder</a></h3>
-      <p>AI system classifying infant cry reasons from audio patterns using CNN, BiLSTM, and Whisper fusion.</p>
-      <p>
-        <code>PyTorch</code> &nbsp;
-        <code>FastAPI</code> &nbsp;
-        <code>Whisper</code> &nbsp;
-        <code>Python</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/MCPPRO">🤖 MCPPro Intelligence System</a></h3>
-      <p>Production-grade AI agent and Document RAG orchestration platform with FastAPI and Next.js.</p>
-      <p>
-        <code>Next.js</code> &nbsp;
-        <code>FastAPI</code> &nbsp;
-        <code>VectorDB</code> &nbsp;
-        <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/CloudPulse">☁️ CloudPulse</a></h3>
-      <p>Real-time AWS cloud infrastructure monitoring, idle EC2 cost optimization, and waste tracking.</p>
-      <p>
-        <code>AWS CloudWatch</code> &nbsp;
-        <code>Docker</code> &nbsp;
-        <code>CI/CD</code> &nbsp;
-        <code>DevOps</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/Client-2_DSK_MART">🛵 DSK Delivery & Mart System</a></h3>
-      <p>Commercial full-stack dispatch and delivery management board featuring driver-role access controls.</p>
-      <p>
-        <code>React</code> &nbsp;
-        <code>Node.js</code> &nbsp;
-        <code>Express</code> &nbsp;
-        <code>MongoDB</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Chiranth-Janardhan-moger/fitphile">💪 Fitphile Exercise Tracker</a></h3>
-      <p>AI physical fitness companion tracking and counting repetitions with OpenCV and MediaPipe Pose.</p>
-      <p>
-        <code>MediaPipe</code> &nbsp;
-        <code>OpenCV</code> &nbsp;
-        <code>Flask</code> &nbsp;
-        <code>Python</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br><strong>React</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br><strong>Tailwind</strong>
-    </td>
-</tr>
-</table>
-
-### ⚙️ Backend & Server Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br><strong>Express</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br><strong>Java</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br><strong>Python</strong>
-    </td>
-</tr>
-</table>
-
-### 🗄️ Database Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
-    </td>
-</tr>
-</table>
-
-### 🔧 Development Tools
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br><strong>Postman</strong>
-    </td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<!-- Animated Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiranth-Janardhan-moger&theme=tokyo-night&hide_border=true&area=true" width="100%">
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranth-Janardhan-moger&theme=tokyonight&hide_border=true" width="400">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chiranth-Janardhan-moger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎨 Current Projects & Learning
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Focus] --> B[Full Stack Applications]
-    A --> C[Modern JavaScript Frameworks]
-    A --> D[Database Optimization]
-    
-    B --> E[React.js Projects]
-    B --> F[Node.js APIs]
-    
-    C --> G[Next.js]
-    C --> H[TypeScript]
-    
-    D --> I[MongoDB Performance]
-    D --> J[SQL Query Optimization]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-```
-
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-  
-<!-- Animated Connect Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
-<h3>💬 Feel free to reach out for collaborations or just a friendly chat!</h3>
-
-<p align="center">
-  <a href="mailto:Chiranthmoger7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chiranthmoger-01a867316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Chiranth-Janardhan-moger">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,java,python,mongodb,mysql,postgres,git,github,vscode,postman&perline=8" alt="My Skills" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- Quote -->
-<div align="center">
-  
-### 💭 Developer Quote
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+### GitHub Insights
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranth-Janardhan-moger&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiranth-Janardhan-moger&theme=tokyo-night&hide_border=true&area=true" width="90%">
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+### Current Focus
 
-<div align="center">
-  
-![Snake animation](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg)
-
-</div>
+```mermaid
+graph LR
+    A[Current Focus] --> B[Full Stack Apps]
+    A --> C[Databases]
+    B --> D[React & React Native]
+    B --> E[Node.js & Express]
+    C --> F[MongoDB & SQL]
+    
+    style A fill:#00d9ff,stroke:#333,stroke-width:2px
+    style B fill:#3a86ff,stroke:#333,stroke-width:1px
+    style C fill:#3a86ff,stroke:#333,stroke-width:1px
+```
 
 ---
 
-<div align="center">
-  
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+### Let's Connect
 
-**⭐ Star my repositories if you find them interesting!**
+<p align="left">
+  <a href="mailto:Chiranthmoger7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chiranthmoger-01a867316">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Chiranth-Janardhan-moger">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+---
 
-*"Code is poetry written in logic"* ✨
+### Contribution Journey
 
-</div>
+<p align="center">
+  <img src="https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg" alt="Snake animation" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+</p>
