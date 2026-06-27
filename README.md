@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Chiranth;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Chiranth;AI+agents+and+architectures)](https://git.io/typing-svg)
 
 
 
@@ -24,7 +24,6 @@
 
 ```javascript
 const chiranth = {
-    role: "Full Stack Developer",
     passion: ["Web Development", "Problem Solving", "Innovation"],
     currentFocus: "AI agents and architectures",
     lifeGoal: "Create impactful solutions for real-world problems",
