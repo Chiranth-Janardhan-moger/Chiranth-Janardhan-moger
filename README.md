@@ -163,7 +163,7 @@ console.log("Welcome to my GitHub profile!");
 ```mermaid
 graph TD
     A[Current Focus] --> B[AI Agents]
-    A --> C[Arch]
+    A --> C[Architectures]
     A --> D[Full Stack]
     
     style A fill:#ff6b6b
