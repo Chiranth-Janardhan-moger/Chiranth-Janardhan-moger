@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Chiranth+%F0%9F%91%8B;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Chiranth;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <div align="center">
   
@@ -28,21 +28,21 @@ const chiranth = {
     passion: ["Web Development", "Problem Solving", "Innovation"],
     currentFocus: "AI agents and architectures",
     lifeGoal: "Create impactful solutions for real-world problems",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    funFact: "I debug with console.log and I'm proud of it!"
 };
 
-console.log("Welcome to my GitHub profile! 🚀");
+console.log("Welcome to my GitHub profile!");
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### Frontend Technologies
 <table>
 <tr>
     <td align="center" width="96">
@@ -72,7 +72,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 </tr>
 </table>
 
-### ⚙️ Backend & Server Technologies
+### Backend & Server Technologies
 <table>
 <tr>
     <td align="center" width="96">
@@ -94,7 +94,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 </tr>
 </table>
 
-### 🗄️ Database Technologies
+### Database Technologies
 <table>
 <tr>
     <td align="center" width="96">
@@ -112,7 +112,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 </tr>
 </table>
 
-### 🔧 Development Tools
+### Development Tools
 <table>
 <tr>
     <td align="center" width="96">
@@ -138,7 +138,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -156,7 +156,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -166,13 +166,13 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ---
 
-## 🎨 Current Projects & Learning
+## Current Projects & Learning
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[🚀 Current Focus] --> B[AI Agents]
+    A[Current Focus] --> B[AI Agents]
     A --> C[Architectures]
     A --> D[Full Stack Systems]
     
@@ -195,7 +195,7 @@ graph TD
 
 ---
 
-## 🌐 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
   
@@ -219,20 +219,11 @@ graph TD
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Quote -->
-<div align="center">
-  
-### 💭 Developer Quote
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   
@@ -247,10 +238,8 @@ graph TD
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐ Star my repositories if you find them interesting!**
+**Star my repositories if you find them interesting!**
 
 <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-*"Code is poetry written in logic"* ✨
 
 </div>
