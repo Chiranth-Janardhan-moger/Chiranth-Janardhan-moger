@@ -199,6 +199,14 @@ graph TD
 
 ---
 
+## 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+---
+
 ## Contribution Snake
 
 <div align="center">
