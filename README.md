@@ -227,6 +227,6 @@ graph TD
 <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <!-- Visitor Radar Telemetry -->
-<img src="https://chiranthmoger.vercel.app/api/telemetry/pixel.svg?target=GitHub%20Profile" width="1" height="1" alt="" style="display:none;" />
+<img src="https://chiranth.vercel.app/api/telemetry/pixel.svg?target=GitHub%20Profile" width="1" height="1" alt="" style="display:none;" />
 
 </div>
