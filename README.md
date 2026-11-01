@@ -1,232 +1,108 @@
-# Welcome to My Digital Universe!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e2e8f0&height=180&text=Chiranth%20Janardhan%20Moger&fontSize=38&fontColor=0f172a&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20Security,%20Systems%20%26%20AI%20Architectures&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Chiranth Janardhan Moger" />
+</div>
+
+<p align="center">
+  <a href="https://f-droid.org/packages/com.chiranth7.vaultx/">
+    <img src="https://img.shields.io/badge/F--Droid-Published_Author-3DDC84?style=flat-square&logo=android&logoColor=white" alt="F-Droid Author" />
+  </a>
+  <a href="https://github.com/Chiranth-Janardhan-moger?tab=repositories">
+    <img src="https://img.shields.io/badge/Open_Source-Security_%26_Systems-0969da?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+  </a>
+  <a href="mailto:Chiranthmoger7@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square" alt="Status" />
+  </a>
+</p>
+
+---
+
+## About
+
+Software engineer focused on offline-first architectures, mobile security engineering, and distributed web applications.
+
+- **Mobile Security & Cryptography**: Author and maintainer of [VaultX](https://github.com/Chiranth-Janardhan-moger/VaultX), an open-source, 100% offline password manager published on F-Droid featuring hardware KeyStore integration and zero platform network permissions.
+- **Enterprise Web Systems**: Architecting full-lifecycle platforms like [ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow) with automated CI/CD and stress-tested concurrency bounds.
+- **Machine Learning & Defenses**: Developing real-time web application firewalls and threat detection engines using statistical learning.
+
+---
+
+## Technical Stack
 
 <div align="center">
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chiranth%20Janardhan%20Moger&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,java,python,c&theme=light" alt="Languages and Frameworks" />
+</p>
+
+### Storage & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vscode,postman&theme=light" alt="Storage and Tools" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+## Featured Work
 
-<div align="center">
-  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
-
-```javascript
-const chiranth = {
-    passion: ["Web Development", "Problem Solving", "Innovation"],
-    currentFocus: "AI agents and architectures",
-    lifeGoal: "Create impactful solutions for real-world problems",
-    funFact: "I debug with console.log and I'm proud of it!"
-};
-
-console.log("Welcome to my GitHub profile!");
-```
-
-<br clear="right"/>
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-### Frontend Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br><strong>React</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br><strong>Tailwind</strong>
-    </td>
-</tr>
-</table>
-
-### Backend & Server Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br><strong>Express</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br><strong>Java</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br><strong>Python</strong>
-    </td>
-</tr>
-</table>
-
-### Database Technologies
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
-    </td>
-</tr>
-</table>
-
-### Development Tools
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br><strong>Postman</strong>
-    </td>
-</tr>
-</table>
-
-</div>
+- **[VaultX](https://github.com/Chiranth-Janardhan-moger/VaultX)** - Open-source, offline password manager published on F-Droid. Engineered with AES-256-CBC, PBKDF2 (100k iterations), HMAC-SHA256 authenticated encryption, and hardware-backed biometric authentication.
+- **[ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow)** - Enterprise procurement and vendor lifecycle system built with React, Vite, Node.js, Express, and Neon PostgreSQL. Stress-tested up to 1,500 concurrent connections.
+- **[Multi-Threat ML Firewall](https://github.com/Chiranth-Janardhan-moger/basic_sql_detection_ml)** - Machine learning-based WAF intercepting HTTP vectors to classify and block SQLi and XSS payloads via sublinear TF-IDF and Logistic Regression.
+- **[INS & Parallel Computing Portals](https://github.com/Chiranth-Janardhan-moger/ins-lab)** - Reference implementations of cryptographic algorithms and multi-core HPC workloads using OpenMP and MPI.
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  
-<!-- Animated Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-Janardhan-moger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiranth-Janardhan-moger&theme=tokyo-night&hide_border=true&area=true" width="100%">
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chiranth-Janardhan-moger&theme=tokyonight&hide_border=true" width="400">
-
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Chiranth-Janardhan-moger&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Chiranth-Janardhan-moger&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" alt="Top Languages" />
 </div>
 
-
-
----
-
-## Current Projects & Learning
-
 <div align="center">
-
-```mermaid
-graph TD
-    A[Current Focus] --> B[AI Agents]
-    A --> C[Architectures]
-    A --> D[Full Stack]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-```
-
+  <img src="https://streak-stats.demolab.com?user=Chiranth-Janardhan-moger&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Let's Connect & Collaborate!
+## Contribution Activity
 
 <div align="center">
-  
-<!-- Animated Connect Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
 
-<h3>💬 Feel free to reach out for collaborations or just a friendly chat!</h3>
+<details>
+  <summary align="center"><strong>View 3D Contribution Profile</strong></summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph" />
+  </div>
+</details>
+
+---
+
+## Connect
+
+<div align="center">
 
 <p align="center">
   <a href="mailto:Chiranthmoger7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Chiranthmoger7@gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/chiranthmoger-01a867316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Chiranth%20Moger-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Chiranth-Janardhan-moger">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Chiranth--Janardhan--moger-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:f8fafc&height=90&section=footer" width="100%" alt="Footer Wave" />
 
----
-
-## 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-  
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**Star my repositories if you find them interesting!**
-
-<img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<!-- Visitor Radar Telemetry -->
+<!-- Telemetry -->
 <img src="https://chiranth.vercel.app/api/telemetry/pixel.svg?target=GitHub%20Profile" width="1" height="1" alt="" style="display:none;" />
 
 </div>
