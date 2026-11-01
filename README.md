@@ -1,28 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e2e8f0&height=180&text=Chiranth%20Janardhan%20Moger&fontSize=38&fontColor=0f172a&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20Security,%20Systems%20%26%20AI%20Architectures&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Chiranth Janardhan Moger" />
-</div>
 
-<p align="center">
-  <a href="https://f-droid.org/packages/com.chiranth7.vaultx/">
-    <img src="https://img.shields.io/badge/F--Droid-Published_Author-3DDC84?style=flat-square&logo=android&logoColor=white" alt="F-Droid Author" />
-  </a>
-  <a href="https://github.com/Chiranth-Janardhan-moger?tab=repositories">
-    <img src="https://img.shields.io/badge/Open_Source-Security_%26_Systems-0969da?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
-  </a>
-  <a href="mailto:Chiranthmoger7@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square" alt="Status" />
-  </a>
-</p>
+# Welcome to My Digital Universe!
+
+<div align="center">
+<!-- Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chiranth%20Janardhan%20Moger&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+</div>
 
 ---
 
-## About
+## About Me
 
-Software engineer focused on offline-first architectures, mobile security engineering, and distributed web applications.
+<div align="center">
+  
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- **Mobile Security & Cryptography**: Author and maintainer of [VaultX](https://github.com/Chiranth-Janardhan-moger/VaultX), an open-source, 100% offline password manager published on F-Droid featuring hardware KeyStore integration and zero platform network permissions.
-- **Enterprise Web Systems**: Architecting full-lifecycle platforms like [ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow) with automated CI/CD and stress-tested concurrency bounds.
-- **Machine Learning & Defenses**: Developing real-time web application firewalls and threat detection engines using statistical learning.
+</div>
+
+```javascript
+const chiranth = {
+    passion: ["Web Development", "Problem Solving", "Innovation"],
+    currentFocus: "AI agents and architectures",
+    lifeGoal: "Create impactful solutions for real-world problems",
+    funFact: "I debug with console.log and I'm proud of it!"
+};
+
+console.log("Welcome to my GitHub profile!");
+```
+
+<br clear="right"/>
 
 ---
 
@@ -44,14 +50,6 @@ Software engineer focused on offline-first architectures, mobile security engine
 
 ---
 
-## Featured Work
-
-- **[VaultX](https://github.com/Chiranth-Janardhan-moger/VaultX)** - Open-source, offline password manager published on F-Droid. Engineered with AES-256-CBC, PBKDF2 (100k iterations), HMAC-SHA256 authenticated encryption, and hardware-backed biometric authentication.
-- **[ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow)** - Enterprise procurement and vendor lifecycle system built with React, Vite, Node.js, Express, and Neon PostgreSQL. Stress-tested up to 1,500 concurrent connections.
-- **[Multi-Threat ML Firewall](https://github.com/Chiranth-Janardhan-moger/basic_sql_detection_ml)** - Machine learning-based WAF intercepting HTTP vectors to classify and block SQLi and XSS payloads via sublinear TF-IDF and Logistic Regression.
-- **[INS & Parallel Computing Portals](https://github.com/Chiranth-Janardhan-moger/ins-lab)** - Reference implementations of cryptographic algorithms and multi-core HPC workloads using OpenMP and MPI.
-
----
 
 ## GitHub Analytics
 
@@ -66,43 +64,68 @@ Software engineer focused on offline-first architectures, mobile security engine
 
 ---
 
-## Contribution Activity
+
+
+## Let's Connect & Collaborate!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+  
+<!-- Animated Connect Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-<details>
-  <summary align="center"><strong>View 3D Contribution Profile</strong></summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph" />
-  </div>
-</details>
-
----
-
-## Connect
-
-<div align="center">
+<h3>💬 Feel free to reach out for collaborations or just a friendly chat!</h3>
 
 <p align="center">
   <a href="mailto:Chiranthmoger7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Chiranthmoger7@gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/chiranthmoger-01a867316">
-    <img src="https://img.shields.io/badge/LinkedIn-Chiranth%20Moger-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Chiranth-Janardhan-moger">
-    <img src="https://img.shields.io/badge/GitHub-Chiranth--Janardhan--moger-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:f8fafc&height=90&section=footer" width="100%" alt="Footer Wave" />
+</div>
 
-<!-- Telemetry -->
+---
+
+## 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/blob/output/github-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Star my repositories if you find them interesting!**
+
+<img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<!-- Visitor Radar Telemetry -->
 <img src="https://chiranth.vercel.app/api/telemetry/pixel.svg?target=GitHub%20Profile" width="1" height="1" alt="" style="display:none;" />
 
 </div>
+
+
+
+
