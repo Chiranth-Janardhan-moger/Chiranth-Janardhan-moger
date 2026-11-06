@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/assets/pixel-bat.gif" width="120" alt="Pixel Bat" />
+</div>
+
 # Welcome to My Digital Universe!
 
 <div align="center">
