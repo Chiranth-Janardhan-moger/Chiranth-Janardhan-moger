@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/assets/pixel-bat.gif" width="120" alt="Pixel Bat" />
 </div>
 
-# Welcome to My Digital Universe!
-
 <div align="center">
 <!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chiranth%20Janardhan%20Moger&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
