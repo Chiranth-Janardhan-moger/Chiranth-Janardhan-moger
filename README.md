@@ -21,8 +21,8 @@
 Software engineer focused on offline-first architectures, mobile security engineering, and distributed web applications. Published author of two open-source Android applications on F-Droid: **VaultX** and **WebStack**.
 
 - **Mobile Security & Android**: Author and maintainer of [VaultX](https://github.com/Chiranth-Janardhan-moger/vaultx-offline-password-manager) (100% offline password vault with hardware KeyStore encryption) and [WebStack](https://github.com/Chiranth-Janardhan-moger/webstack) (visual bookmark and link stack manager for Android), both published on [F-Droid](https://f-droid.org).
-- **Enterprise Web Systems**: Architecting full-lifecycle platforms like [ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow) with automated CI/CD and stress-tested concurrency bounds.
-- **Machine Learning & Defenses**: Developing real-time web application firewalls and threat detection engines using statistical learning.
+- **Agentic AI & Web Systems**: Architecting production RAG platforms ([MCPPRO](https://github.com/Chiranth-Janardhan-moger/MCPPRO)), enterprise procurement engines ([ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow)), and real-time transit telemetry systems ([ConnectMe](https://github.com/Chiranth-Janardhan-moger/Connect_Me)).
+- **Cybersecurity & Machine Learning**: Building hybrid intrusion detection engines ([hybrid-ids](https://github.com/Chiranth-Janardhan-moger/hybrid-ids)) and zero-dependency web firewalls ([FortifyJS](https://github.com/Chiranth-Janardhan-moger/fortifyjs)).
 
 ---
 
@@ -48,9 +48,10 @@ Software engineer focused on offline-first architectures, mobile security engine
 
 - **[VaultX](https://github.com/Chiranth-Janardhan-moger/vaultx-offline-password-manager)** - Open-source, 100% offline password manager published on [F-Droid](https://f-droid.org/packages/com.chiranth7.vaultx/). Engineered with AES-256-CBC, PBKDF2 (100k iterations), HMAC-SHA256 authenticated encryption, and hardware biometric authentication.
 - **[WebStack](https://github.com/Chiranth-Janardhan-moger/webstack)** - High-performance visual bookmark manager and website stack for Android published on [F-Droid](https://f-droid.org/packages/com.chiranth7.webstack/). Built with Jetpack Compose, Room DB, and Material 3 design.
+- **[MCPPRO](https://github.com/Chiranth-Janardhan-moger/MCPPRO)** - Production RAG and AI agent orchestration platform built with FastAPI, Next.js, and vector databases for autonomous workflow execution.
 - **[ProcureFlow](https://github.com/Chiranth-Janardhan-moger/procureflow)** - Enterprise procurement and vendor lifecycle system built with React, Vite, Node.js, Express, and Neon PostgreSQL. Stress-tested up to 1,500 concurrent connections.
-- **[Multi-Threat ML Firewall](https://github.com/Chiranth-Janardhan-moger/basic_sql_detection_ml)** - Machine learning-based WAF intercepting HTTP vectors to classify and block SQLi and XSS payloads via sublinear TF-IDF and Logistic Regression.
-- **[INS & Parallel Computing Portals](https://github.com/Chiranth-Janardhan-moger/ins-lab)** - Reference implementations of cryptographic algorithms and multi-core HPC workloads using OpenMP and MPI.
+- **[ConnectMe](https://github.com/Chiranth-Janardhan-moger/Connect_Me)** - Real-time transit management and bus tracking system built with React Native, Node.js, and Socket.io featuring live location telemetry, ETA predictions, and push alerts.
+- **[Hybrid IDS / IPS](https://github.com/Chiranth-Janardhan-moger/hybrid-ids)** - Network intrusion detection and prevention system combining Suricata rules, Balanced Random Forest anomaly ML, and an automated live mitigation runner.
 
 ---
 
