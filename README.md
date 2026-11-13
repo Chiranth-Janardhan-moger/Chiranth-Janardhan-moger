@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e2e8f0&height=180&text=Chiranth%20Janardhan%20Moger&fontSize=38&fontColor=0f172a&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20Security,%20Systems%20%26%20AI%20Architectures&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Chiranth Janardhan Moger" />
+  <img src="https://raw.githubusercontent.com/Chiranth-Janardhan-moger/Chiranth-Janardhan-moger/main/assets/banner.svg" width="100%" alt="Chiranth Janardhan Moger - Software Engineer" />
 </div>
 
 <p align="center">
@@ -112,8 +112,6 @@ Software engineer focused on offline-first architectures, mobile security engine
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Chiranth-Janardhan-moger&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:f8fafc&height=90&section=footer" width="100%" alt="Footer Wave" />
 
 <!-- Telemetry -->
 <img src="https://chiranth.vercel.app/api/telemetry/pixel.svg?target=GitHub%20Profile" width="1" height="1" alt="" style="display:none;" />
